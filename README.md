@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0217-contains-duplicate](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0217-contains-duplicate) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
@@ -38,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0021-merge-two-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
