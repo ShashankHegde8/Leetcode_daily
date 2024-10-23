@@ -26,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
