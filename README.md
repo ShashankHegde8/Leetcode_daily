@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0070-climbing-stairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Linked List
 |  |
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0242-valid-anagram) |
 | [0742-to-lower-case](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0742-to-lower-case) |
 | [2235-capitalize-the-title](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/2235-capitalize-the-title) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
