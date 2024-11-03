@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0217-contains-duplicate](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0217-contains-duplicate) |
+| [0274-h-index](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0274-h-index) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Hash Table
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0274-h-index) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0003-longest-substring-without-repeating-characters) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
