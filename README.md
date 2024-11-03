@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0274-h-index) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0242-valid-anagram) |
 | [0742-to-lower-case](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0742-to-lower-case) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2235-capitalize-the-title](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/2235-capitalize-the-title) |
 ## Memoization
 |  |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0238-product-of-array-except-self) |
+## Simulation
+|  |
+| ------- |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/2137-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
