@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0274-h-index) |
+| [0349-intersection-of-two-arrays](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0349-intersection-of-two-arrays) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Hash Table
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0274-h-index) |
+| [0349-intersection-of-two-arrays](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0141-linked-list-cycle) |
+| [0349-intersection-of-two-arrays](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0908-middle-of-the-linked-list) |
 ## String
 |  |
@@ -116,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0222-count-complete-tree-nodes) |
+| [0349-intersection-of-two-arrays](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
