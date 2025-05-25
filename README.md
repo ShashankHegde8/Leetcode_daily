@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0045-jump-game-ii](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0055-jump-game) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
