@@ -109,19 +109,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Search
 |  |
