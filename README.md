@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0274-h-index) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0274-h-index) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0053-maximum-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -161,4 +164,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0020-valid-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
