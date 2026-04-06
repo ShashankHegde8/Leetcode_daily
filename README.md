@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0238-product-of-array-except-self) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0141-linked-list-cycle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0908-middle-of-the-linked-list) |
 ## String
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
