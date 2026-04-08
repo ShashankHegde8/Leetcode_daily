@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0908-middle-of-the-linked-list) |
 ## String
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0242-valid-anagram) |
+| [0567-permutation-in-string](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0567-permutation-in-string) |
 | [0742-to-lower-case](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0742-to-lower-case) |
 | [1021-remove-outermost-parentheses](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/1021-remove-outermost-parentheses) |
 | [1544-make-the-string-great](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/1544-make-the-string-great) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0567-permutation-in-string) |
 ## Counting Sort
 |  |
 | ------- |
