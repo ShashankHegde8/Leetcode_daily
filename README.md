@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0643-maximum-average-subarray-i) |
+| [0977-squares-of-a-sorted-array](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Hash Table
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0349-intersection-of-two-arrays) |
+| [0977-squares-of-a-sorted-array](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0908-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/ShashankHegde8/Leetcode_daily/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
